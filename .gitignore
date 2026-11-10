@@ -1,0 +1,5 @@
+# Specific ignore for VSCode
+.vscode
+
+# temporary, swap files for editors
+*.swp
